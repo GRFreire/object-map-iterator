@@ -1,5 +1,5 @@
 {
-  "name": "object-maping",
+  "name": "object-mapping",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GRFreire/object-maping.git"
+    "url": "git+https://github.com/GRFreire/object-mapping.git"
   },
   "keywords": [
     "object",
@@ -19,7 +19,7 @@
   "author": "GRFreire",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GRFreire/object-maping/issues"
+    "url": "https://github.com/GRFreire/object-mapping/issues"
   },
-  "homepage": "https://github.com/GRFreire/object-maping#readme"
+  "homepage": "https://github.com/GRFreire/object-mapping#readme"
 }
