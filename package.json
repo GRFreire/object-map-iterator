@@ -1,5 +1,5 @@
 {
-  "name": "objectmapping",
+  "name": "object-map-iterator",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/GRFreire/objectmapping.git"
+    "url": "git+https://github.com/GRFreire/object-map-iterator.git"
   },
   "keywords": [
     "object",
@@ -19,7 +19,7 @@
   "author": "GRFreire",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GRFreire/objectmapping/issues"
+    "url": "https://github.com/GRFreire/object-map-iterator/issues"
   },
-  "homepage": "https://github.com/GRFreire/objectmapping#readme"
+  "homepage": "https://github.com/GRFreire/object-map-iterator#readme"
 }
