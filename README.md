@@ -1,4 +1,4 @@
-# object-mapping
+# objectmapping
 
 ## Iterate an object with map function
 
@@ -6,17 +6,17 @@
 
 - Npm
 ```
-npm install object-mapping --save
+npm install objectmapping --save
 ```
 - Yarn
 ```
-yarn add object-mapping
+yarn add objectmapping
 ```
 
 ### Usage
 
 ```js
-require('object-mapping');
+require('objectmapping');
 
 const obj = { foo: 'FOO', bar: 'BAR' }
 
@@ -36,4 +36,4 @@ console.log(obj);
  - If your function return ```undefined``` no values in the object will be changed.
  - You can only return the same datatype as the original value, otherwise the object will not be updated.
 
- > The package ```object-mapping``` adds the map function in the ```Object.prototype``` global variable. That doesn't imply javascript itself or any other library functionality, but it is good to know what you are dealing with.
+ > The package ```objectmapping``` adds the map function in the ```Object.prototype``` global variable. That doesn't imply javascript itself or any other library functionality, but it is good to know what you are dealing with.
